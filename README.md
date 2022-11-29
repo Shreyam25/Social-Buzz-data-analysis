@@ -12,3 +12,4 @@ Tableu was used to visualize the data.
 
 #### Tableau Dashboard Link :
  https://public.tableau.com/views/SocialBuzz_16591195064990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![Dashboard 1](https://user-images.githubusercontent.com/89998182/204513974-eb7a2d83-7cad-40a0-9597-3f064676726f.png)
